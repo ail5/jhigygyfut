@@ -1,0 +1,6 @@
+﻿token= NTk3NTA3MjQ5NTYwMjIzNzQ3.XSJIYQ.4SBhSd7Wucfk9-Z6bpz687NEL0U
+owner= 591344130479751169
+prefix= m
+game= #dev by 𝑽 𝑰 𝑹 𝑼 𝑺|mplay
+stayinchannel=true 
+songinstatus=false 
